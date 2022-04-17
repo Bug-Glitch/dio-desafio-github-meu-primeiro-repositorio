@@ -20,7 +20,7 @@ exatamente Mudar Diretório
 - CLS para Windows
 - Clear (Ctrl+L) para Gitbash
 
-### **MKDIR NOME.EXTENSÃO ** 
+### **MKDIR NOME.EXTENSÃO** 
 
 - Cria uma pasta com o nome e extensão
 	- **.md** para Markdown
